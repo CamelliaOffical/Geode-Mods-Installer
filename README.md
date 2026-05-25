@@ -1,3 +1,5 @@
+![Geode Mods Installer Banner](banner.png)
+
 # Geoode Installer
 
 Small Windows CLI/Open With handler for installing `.geode` mods into Geometry Dash.
